@@ -1,0 +1,24 @@
+{
+	"korisnici": [
+	{
+		"name": "Kum (Poshtar)",
+		"lang": 44.7826383,
+		"long": 20.5090929
+	},
+	{
+		"name": "Gogi Zmija",
+		"lang": 44.8502671,
+		"long": 20.4087836
+	},
+	{
+		"name": "Riki Bogdan",
+		"lang": 44.805638,
+		"long": 20.4806159
+	},
+	{
+		"name": "Sinisha (Chupakabra)",
+		"lang": 44.8063954,
+		"long": 20.4766462
+	}
+	]
+}
